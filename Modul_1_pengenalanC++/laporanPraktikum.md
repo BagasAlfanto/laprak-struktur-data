@@ -32,6 +32,8 @@ int main()
 }
 ```
 
+> ![Screenshot bagian x](output/Screenshot_Guided1.png)
+
 Program ini menghitung nilai `Z` dari rumus ((X + Y) / (Y + W)) dengan nilai tetap (X = 7), (Y = 3), dan (W = 1). Hasil perhitungan disimpan dalam variabel `Z` bertipe `float`, kemudian ditampilkan outputnya.
 
 ### Soal 2 Fungsi
@@ -86,6 +88,8 @@ int main()
 }
 
 ```
+
+> ![Screenshot bagian x](output/Screenshot_Guided2.png)
 
 Program ini digunakan untuk menghitung luas dan keliling persegi panjang dengan input panjang dan lebar dari pengguna. Perhitungan dilakukan menggunakan dua fungsi (hitungLuas dan hitungKeliling) yang mengembalikan nilai, serta satu prosedur (tampilkanHasil) yang langsung menampilkan hasil perhitungan.
 
@@ -156,6 +160,8 @@ int main()
 
 ```
 
+> ![Screenshot bagian x](output/Screenshot_Guided3.png)
+
 Program ini terdiri dari beberapa bagian contoh kode. Dua bagian pertama (dalam komentar) menunjukkan cara menghitung diskon 5% jika total pembelian lebih dari atau sama dengan Rp100.000. Bagian terakhir adalah program aktif yang meminta input kode hari (1–7), lalu menggunakan `switch` untuk menentukan apakah hari tersebut termasuk **hari kerja** atau **hari libur**. Jika input tidak sesuai, program akan menampilkan pesan kesalahan.
 
 ### Soal 4 Perulangan
@@ -189,6 +195,8 @@ int main()
     return 0;
 }
 ```
+
+> ![Screenshot bagian x](output/Screenshot_Guided4.png)
 
 Program ini berisi contoh penggunaan perulangan. Bagian pertama (yang dikomentari) menggunakan for loop untuk mencetak tulisan berulang sesuai jumlah yang dimasukkan. Bagian kedua (aktif) menggunakan do while loop, di mana program akan mencetak teks "bahlil ke-" diikuti nomor urutan mulai dari 2, terus berulang sampai mencapai jumlah yang ditentukan oleh pengguna.
 
@@ -228,6 +236,8 @@ int main() {
 
 ```
 
+> ![Screenshot bagian x](output/Screenshot_Guided5.png)
+
 Program ini menggunakan struct bernama Mahasiswa untuk menyimpan data berupa nama, NIM, dan IPK. Pengguna diminta mengisi data mahasiswa melalui input, kemudian program menampilkan kembali data tersebut dalam format yang rapi di layar.
 
 ### Soal 6 Test
@@ -246,6 +256,8 @@ int main()
 }
 
 ```
+
+> ![Screenshot bagian x](output/Screenshot_Guided6.png)
 
 Program ini meminta pengguna memasukkan sebuah kata, lalu membacanya menggunakan fungsi **`getchar()`**. Setelah itu, program menampilkan kembali karakter yang dimasukkan tersebut.
 
