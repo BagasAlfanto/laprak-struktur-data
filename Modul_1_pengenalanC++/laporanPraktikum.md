@@ -285,7 +285,7 @@ int main(){
 ```
 
 > Output
-> ![Screenshot bagian x](output/Screenshot_Soal1)
+> ![Screenshot bagian x](output/Screenshot_Soal1.png)
 
 Kode C++ di atas adalah program sederhana untuk menghitung operasi aritmatika dasar antara dua bilangan (n1 dan n2) yang dimasukkan user. Program menampilkan hasil penjumlahan, pengurangan, perkalian, dan pembagian (dengan pengecekan agar tidak membagi dengan nol).
 
